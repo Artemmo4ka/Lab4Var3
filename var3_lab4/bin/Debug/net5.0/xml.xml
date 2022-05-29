@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<ArrayOfWorker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Worker>
+    <surnameAndInitials>Вуйчич А.С.</surnameAndInitials>
+    <jobTitle>Мер</jobTitle>
+    <year>2009</year>
+  </Worker>
+  <Worker>
+    <surnameAndInitials>Маков?з А.М.</surnameAndInitials>
+    <jobTitle>Консультант</jobTitle>
+    <year>2021</year>
+  </Worker>
+</ArrayOfWorker>

@@ -1,0 +1,48 @@
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\bin\Debug\net5.0\var3_lab4.exe
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\bin\Debug\net5.0\var3_lab4.deps.json
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\bin\Debug\net5.0\var3_lab4.runtimeconfig.json
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\bin\Debug\net5.0\var3_lab4.runtimeconfig.dev.json
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\bin\Debug\net5.0\var3_lab4.dll
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\bin\Debug\net5.0\ref\var3_lab4.dll
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\bin\Debug\net5.0\var3_lab4.pdb
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.csproj.AssemblyReference.cache
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.AssemblyInfoInputs.cache
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.AssemblyInfo.cs
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.csproj.CoreCompileInputs.cache
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.dll
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\obj\Debug\net5.0\ref\var3_lab4.dll
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.pdb
+E:\Programs\Visual\Projects\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.genruntimeconfig.cache
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\bin\Debug\net5.0\var3_lab4.exe
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\bin\Debug\net5.0\var3_lab4.deps.json
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\bin\Debug\net5.0\var3_lab4.runtimeconfig.json
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\bin\Debug\net5.0\var3_lab4.runtimeconfig.dev.json
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\bin\Debug\net5.0\var3_lab4.dll
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\bin\Debug\net5.0\ref\var3_lab4.dll
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\bin\Debug\net5.0\var3_lab4.pdb
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.csproj.AssemblyReference.cache
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.AssemblyInfoInputs.cache
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.AssemblyInfo.cs
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.csproj.CoreCompileInputs.cache
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.dll
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\obj\Debug\net5.0\ref\var3_lab4.dll
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.pdb
+C:\Users\Artem\OneDrive\Рабочий стол\var3_lab4\var3_lab4\obj\Debug\net5.0\var3_lab4.genruntimeconfig.cache
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\bin\Debug\net5.0\var3_lab4.exe
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\bin\Debug\net5.0\var3_lab4.deps.json
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\bin\Debug\net5.0\var3_lab4.runtimeconfig.json
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\bin\Debug\net5.0\var3_lab4.runtimeconfig.dev.json
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\bin\Debug\net5.0\var3_lab4.dll
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\bin\Debug\net5.0\ref\var3_lab4.dll
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\bin\Debug\net5.0\var3_lab4.pdb
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\obj\Debug\net5.0\var3_lab4.csproj.AssemblyReference.cache
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\obj\Debug\net5.0\var3_lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\obj\Debug\net5.0\var3_lab4.AssemblyInfoInputs.cache
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\obj\Debug\net5.0\var3_lab4.AssemblyInfo.cs
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\obj\Debug\net5.0\var3_lab4.csproj.CoreCompileInputs.cache
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\obj\Debug\net5.0\var3_lab4.dll
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\obj\Debug\net5.0\ref\var3_lab4.dll
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\obj\Debug\net5.0\var3_lab4.pdb
+C:\Users\BRAIN\Desktop\var3_lab4 — копия\var3_lab4\obj\Debug\net5.0\var3_lab4.genruntimeconfig.cache
